@@ -1,1 +1,1 @@
-Various weather station experiments with Arduino, Raspberry Pi, ESP8266, example code etc.
+Experiments with Arduino, Raspberry Pi, ESP8266, documentation, example code etc.
